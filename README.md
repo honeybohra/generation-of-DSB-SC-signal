@@ -1,6 +1,7 @@
 # generation-of-DSB-SC-signal
-<br> 
+
 By-
+<br> 
 Mihir Kumar Roy,
 Mayank Kashyup,
 Honey Bohra
